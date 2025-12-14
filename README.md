@@ -35,15 +35,6 @@ git clone https://github.com/OuOSama/YAE-LAVALINK.git
 cd yae-lavalink
 ```
 
-### 2️⃣ Environment Setup
-
-Create your `.env.local` file and add your credentials:
-
-```bash
-# Add your password
-PASSWORD = your_super_secret_password_here
-```
-
 > 💡 **Pro tip:** Use a strong password! Think of it as the key to your audio kingdom 🔐
 
 ### 3️⃣ Deploy!
